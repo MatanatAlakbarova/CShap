@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.AssemblyInfo.cs
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\bin\Debug\net5.0\CSharpProject.exe
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\bin\Debug\net5.0\CSharpProject.deps.json
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\bin\Debug\net5.0\CSharpProject.runtimeconfig.json
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\bin\Debug\net5.0\CSharpProject.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\bin\Debug\net5.0\CSharpProject.dll
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\bin\Debug\net5.0\ref\CSharpProject.dll
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\bin\Debug\net5.0\CSharpProject.pdb
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.dll
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\ref\CSharpProject.dll
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.pdb
+C:\Users\Pc\Desktop\p320\30.10.2021\CSharpProject\CSharpProject\obj\Debug\net5.0\CSharpProject.genruntimeconfig.cache

@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace CSharpProject.Models
 {
-    //Drug - derman classi. Name, Unikal Id, Type(DrugType tipinden), Price, Count olacaq. 
-    //ToString - Id, Name, Price ve Count qaytarmalidir.
     public class Drug
     {
         public string Name { get; set; }      
